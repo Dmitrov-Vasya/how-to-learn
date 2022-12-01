@@ -1,0 +1,9 @@
+/* БЛОК CONTENT */
+/* БЛОК TECHNIQUES */
+.techniques {
+  overflow: hidden;
+  max-width: 80%;
+  margin: 0;
+  margin-left: auto;
+  margin-right: auto;
+}

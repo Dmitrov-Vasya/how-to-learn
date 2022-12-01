@@ -1,0 +1,10 @@
+/* подпись*/
+.footer__author {
+  padding-bottom: 18px;
+  padding-top: 18px;
+  line-height: 25px;
+  font-size: 18px;
+  font-weight: normal;
+  margin: 0;
+  color: white;
+}
